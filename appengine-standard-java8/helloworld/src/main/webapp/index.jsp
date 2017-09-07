@@ -24,7 +24,7 @@
   <title>Hello App Engine Standard Java 8</title>
 </head>
 <body>
-    <h1>Hello App Engine -- Java 8!</h1>
+    <h1>Hello App Engine -- JAVA 8</h1>
 
   <p>This is <%= HelloAppEngine.getInfo() %>.</p>
   <table>
@@ -32,7 +32,7 @@
       <td colspan="2" style="font-weight:bold;">Available Servlets:</td>
     </tr>
     <tr>
-      <td><a href='/hello'>Hello App Engine</a></td>
+      <td><a href='/hello'>Hello Users - for creating Versions of APP </a></td>
     </tr>
   </table>
 
